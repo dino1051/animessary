@@ -76,7 +76,7 @@ body{
 
 
 .final{
-    background:#9d3ad6;
+    background:#8F4FDE;
 }
 body{
     font-family: Arial, sans-serif;
@@ -323,8 +323,8 @@ body{
     background:
         linear-gradient(
             135deg,
-            #8e5dbb,
-            #a144ee
+            #8F4FDE,
+            #7729D6
         );
 
     transition:all .3s ease;
@@ -446,8 +446,8 @@ body{
     background:
         linear-gradient(
             135deg,
-            #ff7eb3,
-            #ff758c
+            #8F4FDE,
+            #7729D6
         );
 
     transition:.3s;
